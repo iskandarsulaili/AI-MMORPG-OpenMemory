@@ -142,7 +142,7 @@ Requirements:
 - Optional: OpenAI/Gemini API key or Ollama
 
 ```bash
-git clone https://github.com/caviraoss/openmemory.git
+git clone https://github.com/iskandarsulaili/AI-MMORPG-OpenMemory.git
 cd openmemory/backend
 cp .env.example .env
 npm install
@@ -660,7 +660,7 @@ make test
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/nullure">
+                <a href="https://https://github.com/iskandarsulaili/AI-MMORPG-OpenMemory.com/nullure">
                     <img src="https://avatars.githubusercontent.com/u/81895400?v=4" width="100;" alt="nullure"/>
                     <br />
                     <sub><b>Morven</b></sub>
